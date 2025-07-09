@@ -1,0 +1,13 @@
+{
+    "language": "en",
+    "slow": false,
+    "weather_api_key": "",
+    "news_api_key": "",
+    "email": {
+        "smtp_server": "smtp.gmail.com",
+        "smtp_port": 587,
+        "sender_email": "",
+        "sender_password": ""
+    },
+    "wake_word": "jarvis"
+}
